@@ -1,0 +1,40 @@
+header{
+    background-color: aqua;
+    padding: 0px;
+    margin: 0px;
+    box-shadow: 10px;
+    border-radius: 10px;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+
+    
+}
+header ul{
+    display: flex;
+    gap: 10px;
+   
+    
+
+}
+header ul li{
+    list-style: none;
+   
+}
+main{
+display: flex;
+justify-content: center;
+background-color: blueviolet;
+height: 100vh;
+}
+footer{
+    display: flex;
+    margin-top: auto;
+    background-color:green;
+    gap: 40px;
+    justify-content: center;
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+}
